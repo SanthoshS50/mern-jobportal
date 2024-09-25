@@ -20,3 +20,7 @@ This is a job portal built using the MERN stack (MongoDB, Express.js, React, and
 - **Backend**: Node.js, Express.js
 - **Database**: MongoDB
 - **Other**: JWT for authentication, Cloudinary for media uploads
+
+## PROJECT GALLERY :
+
+![Home Page](<Readme_Images/Homepage.png>)
