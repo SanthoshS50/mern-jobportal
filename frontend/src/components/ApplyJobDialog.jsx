@@ -26,7 +26,7 @@ export function ApplyJobDialog({ open, setOpen }) {
                         </Label>
                         <Input
                             id="name"
-                            placeholder="Patel Mern Stack"
+                            placeholder="Mern Stack"
                             className="col-span-3"
                         />
                     </div>
@@ -36,7 +36,7 @@ export function ApplyJobDialog({ open, setOpen }) {
                         </Label>
                         <Input
                             id="email"
-                            placeholder="patelmernstack@gmail.com"
+                            placeholder="youremail@gmail.com"
                             className="col-span-3"
                         />
                     </div>

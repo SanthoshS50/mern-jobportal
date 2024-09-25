@@ -26,7 +26,7 @@ const HeroSection = () => {
                     <h1 className='text-5xl font-bold'>Search, Apply & <br /> Get Your <span className='text-[#6A38C2]'>Dream Jobs</span></h1>
                 </div>
                 <div>
-                    <p className='text-gray-500'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus adipisci cupiditate cum.<br /> Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+                    {/* <p className='text-gray-500'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus adipisci cupiditate cum.<br /> Lorem ipsum dolor sit amet consectetur adipisicing elit.</p> */}
                 </div>
                 <div className='flex w-[40%] shadow-lg border pl-3 border-gray-200 rounded-full items-center gap-4 mx-auto'>
                     <input
