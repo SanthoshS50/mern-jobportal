@@ -18,7 +18,7 @@ const CompanyCreate = () => {
 
     const createNewCompany = async () => {
         try {
-            const res = await axios.post("https://mern-jobportal-rgf3.onrender.com/api/v1/company/register", { companyName }, {
+            const res = await axios.post("https://localhost:8000/api/v1/company/register", { companyName }, {
                 headers: {
                     'Content-Type': 'application/json'
                 },
